@@ -7,15 +7,15 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://es-la.facebook.com)
 [![Facebook](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/?lang=es)
 
-!Bienvenido a mi pagina de Github! !Soy Leo Perez Desarrollador Fullstack! 
+!Bienvenido a mi pagina de Github!
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Cosas en la que estoy trabajando actualmente: 
 - Desarrollador Fullstack 
-- Desarrollador Movile
-- Trabajar en CANVIA 🚀 *proximamente*
+- Desarrollador Mobile
+- Trabajando en CANVIA
 
 #### :muscle: Cosas con la que me estoy desafiando:
 - Levantarse más temprano para aprovechar bien el día
