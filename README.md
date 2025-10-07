@@ -1,5 +1,5 @@
 ### Hola 👋
-### Soy Leo Perez Fullstack Developer!
+### Soy Leodan Perez Fullstack Developer!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Leodanperez)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leodan-perez-llacsa-5124391a3/)
